@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['dangerous', 'safe']
+
+roboflow:
+  workspace: kidzo
+  project: kidzo_app
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kidzo/kidzo_app/dataset/1
