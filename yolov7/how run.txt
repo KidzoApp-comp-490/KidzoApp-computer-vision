@@ -1,0 +1,17 @@
+1- go to this location from anaconda prompt
+
+2- python detect.py --weights yolov7.pt --conf 0.4 --img-size 640 --source 1.png
+
+3- how to open labelImg
+write labelImg
+
+4-how we train data in cola
+!python train.py --device 0 --batch-size 15 --epochs 100 --img 640 640 --data data/customdata.yaml --hyp data/hyp.scratch.custom.yaml --cfg cfg/training/yolov7-custom.yaml --weights yolov7.pt --name yolov7-custom
+
+5-how to test an image 
+python detect.py --weights C:\python\yolov7\runs\train\yolov7-custom7\weights\best.pt  --conf 0.8 --img-size 640 --source 1.png
+
+6-
+how it work 
+1- conda activate yolov7
+2- python detect.py --weights yolov7.pt --conf 0.5 --img-size 640 --source runsimage.jpg --name test
