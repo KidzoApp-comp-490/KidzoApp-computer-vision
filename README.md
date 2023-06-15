@@ -7,4 +7,4 @@
 ## 5- go to directory of yolov7 in Anaconda Prompt (anaconda3)
 ## 6- creat new environment 
 ## 7- activate this environment 
-## 8- and do detect  
+## 8- run this code :- python detect.py --weights best.pt --conf 0.4 --img-size 640 --source 0 
