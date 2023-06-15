@@ -5,6 +5,6 @@
 ## 3-  like this ![image](https://github.com/KidzoApp-comp-490/KidzoApp-computer-vision/assets/86850441/be8fb9be-fb47-4a2c-a95d-5bf69e46279d)
 ## 4- open Anaconda Prompt (anaconda3)
 ## 5- go to directory of yolov7 in Anaconda Prompt (anaconda3)
-## 6- creat new inviroment 
-## 7- activate this inviroment 
+## 6- creat new environment 
+## 7- activate this environment 
 ## 8- and do detect  
