@@ -10,7 +10,7 @@
 ## 8- run this code :- python detect.py --weights best.pt --conf 0.4 --img-size 640 --source 0 
 ##
 ##
-##or to chek the model scane the QR code
+## or to chek the model scane the QR code you can use it.
 ##
 ![5062b1ad-c469-4228-aa35-aed54cc5ed19](https://github.com/KidzoApp-comp-490/KidzoApp-computer-vision/assets/86850441/07188398-6e79-47e8-8bbc-0a740e568c58)
 ##
